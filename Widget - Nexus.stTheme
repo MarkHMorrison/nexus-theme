@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>Mark H. Morrison</string>
+	<key>comment</key>
+	<string>A widget theme for the UI components of the Nexus theme.</string>
+	<key>name</key>
+	<string>Nexus - Widget Theme</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#161616</string>
+				<key>caret</key>
+				<string>#00c6fc</string>
+				<key>foreground</key>
+				<string>#f0f0f0</string>
+				<key>invisibles</key>
+				<string>#c7dce7</string>
+				<key>selection</key>
+				<string>#5d1487</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
