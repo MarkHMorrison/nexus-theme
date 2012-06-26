@@ -4,7 +4,7 @@ Dark custom UI theme for Sublime Text 2.
 
 ## Design
 
-![Nexus theme](https://github.com/EleazarCrusader/nexus-theme/blob/master/nexus-theme.png)
+![Nexus theme](https://github.com/EleazarCrusader/nexus-theme/raw/master/nexus-theme.png)
 
 This theme is based on [nilium (Noel Cower) Nil Theme](https://github.com/nilium/st2-nil-theme) and he based his on the following:
 
