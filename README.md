@@ -29,7 +29,7 @@ Alternatively, if you are a git user, you can install the theme and keep up to d
 
 Go to your Sublime Text 2 `Packages` directory and clone the theme repository using the command below:
 
-    git clone https://github.com/ElezarCrusader/nexus-theme/ "Theme - Nexus"
+    git clone https://github.com/EleazarCrusader/nexus-theme/ "Theme - Nexus"
 
 ### Download Manually
 
