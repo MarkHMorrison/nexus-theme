@@ -1,6 +1,6 @@
 # Nexus Theme
 
-Dark custom UI theme for Sublime Text 2.
+Dark custom UI theme for Sublime Text 2/3. ST3 updates provided by Raynos and LOQUILLO!
 
 ## Design
 
@@ -19,13 +19,13 @@ doesn't do it for you (and it's rough around the edges, so it may not).
 
 ## Installation
 
-### COMING SOON --- Using Sublime Package Control
+### Using Sublime Package Control
 
 If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Nexus Theme via the `Package Control: Install Package` menu item. The Nexus Theme package is listed as `Theme - Nexus` in the packages list.
 
 ### Using Git
 
-Alternatively, if you are a git user, you can install the theme and keep up to date by cloning the repo directly into your `Packages` directory in the Sublime Text 2 application settings area.
+Alternatively, if you are a git user, you can install the theme and keep up to date by cloning the repo directly into your `Packages` directory in the Sublime Text 2/3 application settings area.
 
 Go to your Sublime Text 2 `Packages` directory and clone the theme repository using the command below:
 
