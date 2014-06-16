@@ -373,8 +373,13 @@
 	//	- Status bar container
 	{
 		"class": "status_bar",
-		"layer0.texture": "Theme - Nexus/assets/status-bar-bg.png",
-		"layer0.opacity": 1,
+		// "layer0.texture": "Theme - Nexus/assets/status-bar-bg.png",
+		"layer0.tint": [32, 32, 32],
+		"layer1.tint": [32, 32, 32],
+		"layer2.tint": [32, 32, 32],
+		"layer0.opacity": 1.0,
+		"layer1.opacity": 1.0,
+		"layer2.opacity": 1.0,
 		"layer0.inner_margin": [2, 2],
 		"content_margin": [6, 5, 6, 5]
 	},
