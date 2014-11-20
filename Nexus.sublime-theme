@@ -576,6 +576,7 @@
 		"parents": [{"class": "tree_row", "attributes": ["selected"]}],
 		"layer0.texture": "Theme - Nexus/assets/folder/group-open-selected.png"
 	},
+	//	- Hide original folders
 	{
 		"class": "icon_folder",
 		"content_margin": [0,0]
